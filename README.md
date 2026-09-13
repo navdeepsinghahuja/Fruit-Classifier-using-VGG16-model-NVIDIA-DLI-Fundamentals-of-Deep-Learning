@@ -1,1 +1,0 @@
-# Fruit-Classifier-using-VGG16-model-NVIDIA-DLI-Fundamentals-of-Deep-Learning
